@@ -2,6 +2,15 @@
 
 Pipeline that scores Chinese financial news sentiment and uses it (weighted by news popularity) to build and backtest a stock-selection strategy against the CSI 300 index (2018–2021).
 
+> Group project for **MSBA7012**, Master of Science in Business Analytics, **The University of Hong Kong** (February 2023).
+> Full title: *A Profitable Trading Strategy Through Sentiment Analysis on Chinese Financial News*.
+
+## Contributors (Group 1)
+
+Cai Shida · Chen Xiaojie · Huang Huiling · Liu Yiwei · Lu Jinnuo · Wang Manlin · Xu Chenyun · Ying Zitao
+
+Data: 2017–2021 Chinese financial news and A-share market data from the CSMAR database, provided by the course instructor.
+
 | Step | Folder | Description |
 |---|---|---|
 | 1 | `1. news_data_combination` | Merge raw news data |
