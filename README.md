@@ -1,4 +1,4 @@
-# MSBA7012 Group Project: News Sentiment & Stock Trading Strategy
+# News Sentiment & Stock Trading Strategy
 
 Pipeline that scores Chinese financial news sentiment and uses it (weighted by news popularity) to build and backtest a stock-selection strategy against the CSI 300 index (2018–2021).
 
